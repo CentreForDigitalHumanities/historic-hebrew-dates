@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.com/UUDigitalHumanitieslab/historic-hebrew-dates.svg?token=gbE1yWiPSuz64uDZEWzs&branch=develop)](https://travis-ci.com/UUDigitalHumanitieslab/historic-hebrew-dates)
-
 WARNING: this library is very rough around the edges
 
 # Historic Hebrew Dates

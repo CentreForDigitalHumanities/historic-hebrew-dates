@@ -11,7 +11,7 @@ setup(
     long_description=long_description,
     author='Digital Humanities Lab, Utrecht University',
     author_email='digitalhumanities@uu.nl',
-    url='https://github.com/UUDigitalHumanitieslab/historic-hebrew-dates',
+    url='https://github.com/CentreForDigitalHumanities/historic-hebrew-dates',
     license='MIT',
     packages=['historic-hebrew-dates'],
     zip_safe=True,

@@ -2,7 +2,7 @@
     "name": "historic-hebrew-dates",
     "description": "Editing and parsing interface for historical Hebrew dates.",
     "author": "UU Digital Humanities Lab",
-    "repository": "github:UUDigitalHumanitieslab/historic-hebrew-dates",
+    "repository": "github:CentreForDigitalHumanities/historic-hebrew-dates",
     "private": true,
     "scripts": {
         "front": "cd web-ui && ",
